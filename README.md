@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy NICOLAS GIRALDO TOBON
 
-<!--
-**NicoGT13/NicoGT13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy un estudiante de ingenieria de sistemas y comunicaciones con experiencia en:
+- Soporte remoto
+- Soporte tecnico
+- Mantenimiento de sistemas y equipos
+- Uso de sistemas GPS
+- Mantenimiento preventivo y correctivo de servidores, RACK, NVR, camaras IP y de red
 
-Here are some ideas to get you started:
+Actualmente trabajo en **ABC Publicidad y tengo experiencia en herramientas como:
+- 🔧 Git, GitHub, CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos Destacados
+- 🛠️ Herramientas y software para la gestión de transporte escolar.
+- Mantenimiento preventivo y correctivo de computadoras, impresoras y maquinas industriales
+
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuusuario/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/tuusuario/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:tuemail@example.com)
+
+---
+⭐️ *Si te gustan mis proyectos, ¡no dudes en darles una estrella!*
